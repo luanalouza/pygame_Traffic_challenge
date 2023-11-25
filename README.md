@@ -20,9 +20,11 @@ How to Use the Traffic Challenge Game
 Download the Game: Download the game from the repository. Look for the .exe file in the downloaded contents.
 Run the Game: Locate the .exe file on your computer. Double-click on the .exe file to run the game. The game window should open.
 Play the Game: You’ll be controlling a car driving in the opposite direction of traffic. Your objective is to avoid colliding with the oncoming cars. Use the specified controls to maneuver your car.
-End the Game: You can close the game window at any time to stop playing.
-Replay: To play again, simply double-click the .exe file again.
-Enjoy the thrill of driving against traffic and testing your reflexes and decision-making skills! Remember, the objective is to avoid collisions. Happy gaming! 😊
+
+End the Game: 
+
+You can close the game window at any time to stop playing.
+
 
 Technologies Used
 
