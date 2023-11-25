@@ -25,6 +25,8 @@ Replay: To play again, simply double-click the .exe file again.
 Enjoy the thrill of driving against traffic and testing your reflexes and decision-making skills! Remember, the objective is to avoid collisions. Happy gaming! 😊
 
 Technologies Used
+
+
 Python: The game is entirely written in Python, showcasing the power and flexibility of the language.
 Pygame: This popular game development library in Python is used for creating the game window, handling events, and rendering graphics.
 This game is perfect for those who enjoy fast-paced, challenging games and for anyone interested in game development with Python and Pygame. It’s also a great resource for learning about collision detection and user interface design in games. Happy gaming! 😊
